@@ -1,2 +1,2 @@
-# first-day-repo-v2
+# first-day-repo
 second first-day-repo to test clone
